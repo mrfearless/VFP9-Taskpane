@@ -10,10 +10,10 @@ Includes the following packaged classes:
 * taskpane
 * taskpanepanel
 
-To run the taskpane sample demo project:
+To run the taskpane example demo projects:
 
-* Open `taskpane sample.pjx` in Visual FoxPro 9
+* Open `taskpane examples.pjx` in Visual FoxPro 9
 * Navigate to the `Documents` tab and expand `Forms`.
-* Select `tasksample` form and double click or click the `Run` button to preview the sample.
+* Select `taskpane_example1` or `taskpane_example2` form and double click or click the `Run` button to preview the example.
 
-![](/assets/screenshot.png)
+![](/assets/screenshot2.png)
