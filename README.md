@@ -1,6 +1,8 @@
 # VFP9-Taskpane
 
-Taskpane classes and sample for Visual FoxPro 9
+Taskpane classes and sample for Visual FoxPro 9. Mimics the task pane behavior of older windows control panel. 
+
+One of many small projects that I originally created (in 2006) for Visual FoxPro.
 
 Includes the following packaged classes:
 
