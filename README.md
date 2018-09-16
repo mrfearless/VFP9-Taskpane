@@ -1,4 +1,4 @@
-# VFP9-Taskpane
+# ![](/assets/vfp.png) VFP9-Taskpane
 
 Taskpane classes and sample for Visual FoxPro 9. Mimics the task pane behavior of older windows control panel. 
 
